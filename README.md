@@ -1,9 +1,10 @@
-### olár! Eu sou o Willian Jfferson, estou aprendendo a progamar, foco total ate se tornar o melhor progrmador!
+### olár! Eu sou o Willian Jfferson
 
 [![rede social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/willian-jefferson-batista-de-sena-42a9b9219)
 
-![WillianJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianJeff&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianJef)](https://github.com/anuraghazra/github-readme-stats)
+
+![WillianJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianJeff&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianJefl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que estou utilizando!
 
